@@ -1,0 +1,18 @@
+# dependencies
+node_modules/
+
+# env files (إذا تستعملهم مستقبلاً)
+.env
+
+# database config (مهم!)
+db.js
+
+# logs
+notes.log
+
+# sql dumps / test data
+step.sql
+
+# OS files
+.DS_Store
+Thumbs.db
